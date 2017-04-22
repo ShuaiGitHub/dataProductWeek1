@@ -1,2 +1,2 @@
-# dataProductWeek1
-Week 1 Project for Data Product
+# dataProductWeek2
+Week 2 Project for Data Product
